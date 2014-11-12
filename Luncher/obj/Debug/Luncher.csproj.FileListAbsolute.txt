@@ -1,0 +1,6 @@
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\bin\Luncher.dll.config
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\bin\Luncher.dll
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\bin\Luncher.pdb
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\obj\Debug\Luncher.csprojResolveAssemblyReference.cache
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\obj\Debug\Luncher.dll
+c:\users\albus\documents\visual studio 2013\Projects\Luncher\Luncher\obj\Debug\Luncher.pdb
